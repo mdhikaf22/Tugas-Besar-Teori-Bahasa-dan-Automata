@@ -6,7 +6,7 @@ Dinda Desfira 1301223236
 Subyek :aku,kamu,dia,mereka,kita
 Predikat:makan,minum,tidur,baca,nonton
 Obyek:nasi,air,buku,film,kue
-Keterangandi rumah,di kampus,di kantin,malam ini,pagi ini
+Keterangan: di rumah,di kampus,di kantin,malam ini,pagi ini
 
 Struktur kalimat Bahasa Indonesia yang dikenali terdapat S, P, O, K, dengan S sebagai subyek, P sebagai predikat, O sebagai obyek, dan K sebagai keterangan. S
 truktur kalimat yang dikenali sebagai kalimat berita aktif adalah dengan struktur:
